@@ -1,48 +1,205 @@
-<div align="center">
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Rashwin%20SP&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+<img
+src="https://raw.githubusercontent.com/rashwin-10/rashwin-10/main/assets/header.svg"
+width="100%"
+alt="Rashwin SP Header">
 
-<h3>Electronics and Communication Engineering | Embedded Systems | IoT | MATLAB</h3>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&vCenter=true&width=760&lines=Electronics+and+Communication+Engineering+Student;Embedded+Systems+and+IoT+Enthusiast;MATLAB+and+Computer+Vision+Learner;Java+and+C+Programmer;Building+Ideas+Into+Practical+Projects" />
+<p align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&width=850&height=45&lines=Hi%2C+I'm+Rashwin+SP;Electronics+and+Communication+Engineering+Student;Embedded+Systems+and+IoT+Enthusiast;MATLAB+and+Computer+Vision+Learner;Java+and+C+Programmer;Building+Practical+Engineering+Projects"
+alt="Typing Animation">
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rashwinsp">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A">
+</a>
+
+&nbsp;
+
+<a href="mailto:rashwinrashwin1@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A">
+</a>
+
+&nbsp;
+
+<a href="https://rashwinsp.netlify.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A">
+</a>
+
+&nbsp;
+
+<a href="https://github.com/rashwin-10">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0A0A0A">
+</a>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://komarev.com/ghpvc/?username=rashwin-10&label=PROFILE%20VIEWS&color=DC2626&style=for-the-badge"
+alt="Profile Views">
+
+</p>
+
+---
+
+<h2 align="center">ABOUT ME</h2>
+
+<p align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=F87171&center=true&vCenter=true&width=760&height=32&lines=Driven+by+curiosity.;Building+practical+engineering+solutions.;Learning+through+real-world+projects.;Turning+ideas+into+working+systems."
+alt="About Animation">
+
+</p>
+
+<p align="center">
+
+<img
+src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
+width="340"
+alt="Developer Animation">
+
+</p>
+
+<p align="center">
+
+I am <b>Rashwin SP</b>, an Electronics and Communication Engineering student at
+<b>Dr. N.G.P Institute of Technology, Coimbatore</b>.
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/rashwinsp">
-<img src="https://img.shields.io/badge/LinkedIn-Rashwin%20SP-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+I am interested in <b>Embedded Systems, Internet of Things, MATLAB, Computer Vision,
+Robotics and Programming</b>.
 
-<a href="mailto:rashwinrashwin1@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=rashwinrashwin1-crypto&label=Profile%20Views&style=for-the-badge"/>
+I enjoy developing practical projects that combine hardware and software while continuously improving my programming and problem-solving skills.
 
-</div>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-111111?style=flat-square">
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/DEGREE-B.E.%20ECE-DC2626?style=flat-square">
+
+&nbsp;
+
+<img src="https://img.shields.io/badge/FOCUS-EMBEDDED%20SYSTEMS%20%26%20IoT-111111?style=flat-square">
+
+</p>
+
+<br>
+
+<table width="100%" align="center">
+
+<tr>
+
+<td width="50%" align="center">
+
+<h4>FLAGSHIP PROJECT</h4>
+
+<b>UAV Vision-Based Mapping</b>
+
+<br>
+
+<sub>MATLAB • Computer Vision • Image Processing</sub>
+
+</td>
+
+<td width="50%" align="center">
+
+<h4>CURRENT FOCUS</h4>
+
+<b>Java & Data Structures</b>
+
+<br>
+
+<sub>Programming • Problem Solving</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<h4>CORE INTERESTS</h4>
+
+<b>Embedded Systems & IoT</b>
+
+<br>
+
+<sub>Hardware • Sensors • Automation</sub>
+
+</td>
+
+<td width="50%" align="center">
+
+<h4>EXPLORING</h4>
+
+<b>Computer Vision & Robotics</b>
+
+<br>
+
+<sub>MATLAB • Image Processing • AI</sub>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-<h2 align="center">About Me</h2>
+<h2 align="center">FEATURED PROJECT SPOTLIGHT</h2>
 
-I am an Electronics and Communication Engineering student interested in developing practical solutions using embedded systems, IoT, programming, MATLAB and computer vision.
+<table width="100%">
 
-I enjoy working on projects that combine hardware and software, allowing me to understand how engineering concepts can be converted into real-world applications.
+<tr>
 
-My current focus is on strengthening my programming, problem-solving and development skills while exploring embedded technologies, robotics and computer vision.
+<td align="center">
 
-- B.E. Electronics and Communication Engineering
-- Dr. N.G.P Institute of Technology, Coimbatore
-- Interested in Embedded Systems and IoT
-- Exploring Robotics and Computer Vision
-- Programming with C and Java
-- Working with MATLAB for image processing and simulation
-- Currently improving Java, Data Structures and problem-solving skills
+<h3>UAV Vision-Based Mapping</h3>
+
+<i>
+A MATLAB-based computer vision system designed to process UAV aerial imagery,
+perform feature matching and image stitching, and generate terrain maps for
+surveying and environmental monitoring.
+</i>
+
+<br><br>
+
+<a href="https://github.com/rashwin-10/UAV-Vision-Based-Mapping">
+
+<img
+src="https://img.shields.io/badge/SOURCE%20CODE-VIEW%20PROJECT-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A">
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center">FEATURED PROJECTS</h2>
 
-<table>
+<table width="100%">
 
 <tr>
 
@@ -50,29 +207,37 @@ My current focus is on strengthening my programming, problem-solving and develop
 
 <h3 align="center">Fire Fighting Robot</h3>
 
-An autonomous fire detection system developed using sensors, a microcontroller and motor control mechanisms.
+<p align="center">
+Autonomous fire detection robot developed using a microcontroller,
+flame and temperature sensors and motor control mechanisms.
+</p>
 
-<b>Technologies</b>
+<p align="center">
 
-`Embedded C` `Microcontroller` `Flame Sensor` `Temperature Sensor` `DC Motors`
+<img src="https://img.shields.io/badge/Embedded%20C-111111?style=flat-square">
 
-<b>Key Features</b>
+<img src="https://img.shields.io/badge/Microcontroller-DC2626?style=flat-square">
+
+<img src="https://img.shields.io/badge/Sensors-111111?style=flat-square">
+
+</p>
 
 - Automatic fire detection
 - Temperature monitoring
-- Autonomous robot movement
+- Autonomous movement
 - Motor and relay control
 - Real-time sensor processing
 
-<br>
+<p align="center">
 
-<div align="center">
+<a href="https://github.com/rashwin-10/Autonomous-Fire-Fighting-Robot">
 
-<a href="https://github.com/rashwinrashwin1-crypto/Autonomous-Fire-Fighting-Robot">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A">
+
 </a>
 
-</div>
+</p>
 
 </td>
 
@@ -80,28 +245,36 @@ An autonomous fire detection system developed using sensors, a microcontroller a
 
 <h3 align="center">Waste Segregation Machine</h3>
 
-An Arduino-based automated waste classification system designed to separate different types of waste using sensor-driven logic.
+<p align="center">
+Arduino-based automated waste classification system using sensors
+and microcontroller-driven logic.
+</p>
 
-<b>Technologies</b>
+<p align="center">
 
-`Arduino` `Sensors` `Embedded Systems` `Servo Motor`
+<img src="https://img.shields.io/badge/Arduino-111111?style=flat-square">
 
-<b>Classification</b>
+<img src="https://img.shields.io/badge/Embedded%20Systems-DC2626?style=flat-square">
 
-- Dry Waste
-- Wet Waste
-- Metallic Waste
+<img src="https://img.shields.io/badge/Sensors-111111?style=flat-square">
+
+</p>
+
+- Dry waste detection
+- Wet waste detection
+- Metallic waste detection
 - Automated sorting mechanism
 
-<br>
+<p align="center">
 
-<div align="center">
+<a href="https://github.com/rashwin-10/Waste-Segregation-Machine">
 
-<a href="https://github.com/rashwinrashwin1-crypto/Waste-Segregation-Machine">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A">
+
 </a>
 
-</div>
+</p>
 
 </td>
 
@@ -113,13 +286,20 @@ An Arduino-based automated waste classification system designed to separate diff
 
 <h3 align="center">UAV Vision-Based Mapping</h3>
 
-A MATLAB-based computer vision project designed to process UAV aerial imagery and generate terrain maps for surveying and environmental monitoring.
+<p align="center">
+MATLAB-based computer vision system for processing aerial imagery,
+image stitching, feature matching and terrain mapping.
+</p>
 
-<b>Technologies</b>
+<p align="center">
 
-`MATLAB` `Computer Vision` `Image Processing` `UAV`
+<img src="https://img.shields.io/badge/MATLAB-DC2626?style=flat-square">
 
-<b>Key Features</b>
+<img src="https://img.shields.io/badge/Computer%20Vision-111111?style=flat-square">
+
+<img src="https://img.shields.io/badge/Image%20Processing-DC2626?style=flat-square">
+
+</p>
 
 - Aerial image processing
 - Feature extraction
@@ -128,19 +308,39 @@ A MATLAB-based computer vision project designed to process UAV aerial imagery an
 - Terrain mapping
 - Image enhancement
 
+<p align="center">
+
+<a href="https://github.com/rashwin-10/UAV-Vision-Based-Mapping">
+
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A">
+
+</a>
+
+</p>
+
 </td>
 
 <td width="50%" valign="top">
 
 <h3 align="center">Medicinal Plant Authenticity Verification</h3>
 
-An AI-based system developed to identify medicinal plant species and verify their authenticity using deep learning and multi-feature similarity analysis.
+<p align="center">
+Deep-learning system designed for medicinal plant identification and
+authenticity verification using feature similarity analysis.
+</p>
 
-<b>Technologies</b>
+<p align="center">
 
-`Python` `PyTorch` `ONNX` `MATLAB` `Deep Learning`
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square">
 
-<b>Key Features</b>
+<img src="https://img.shields.io/badge/PyTorch-DC2626?style=flat-square">
+
+<img src="https://img.shields.io/badge/ONNX-111111?style=flat-square">
+
+<img src="https://img.shields.io/badge/MATLAB-DC2626?style=flat-square">
+
+</p>
 
 - Medicinal plant identification
 - EfficientNet with CBAM
@@ -156,34 +356,51 @@ An AI-based system developed to identify medicinal plant species and verify thei
 
 ---
 
-<h2 align="center">Technical Skills</h2>
+<h2 align="center">TECH STACK & SKILLS</h2>
 
-<div align="center">
+<p align="center">
+<b>Programming Languages</b>
+</p>
 
-<h3>Programming Languages</h3>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,python"/>
+<img
+src="https://skillicons.dev/icons?i=c,java,python&theme=dark"
+alt="Programming Languages">
 
-<br>
+</p>
 
-<h3>Development Tools</h3>
+<p align="center">
+<b>Engineering & Development Tools</b>
+</p>
 
-<img src="https://skillicons.dev/icons?i=arduino,matlab,git,github,vscode"/>
+<p align="center">
 
-<br><br>
+<img
+src="https://skillicons.dev/icons?i=arduino,matlab,git,github,vscode&theme=dark"
+alt="Development Tools">
 
-<img src="https://img.shields.io/badge/Embedded%20Systems-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Internet%20of%20Things-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Image%20Processing-FF6F00?style=for-the-badge"/>
+</p>
 
-</div>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Embedded%20Systems-0A0A0A?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Internet%20of%20Things-DC2626?style=for-the-badge&logo=arduino&logoColor=white">
+
+<img src="https://img.shields.io/badge/Xilinx%20Vivado-0A0A0A?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/MATLAB-DC2626?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Computer%20Vision-0A0A0A?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Image%20Processing-DC2626?style=for-the-badge">
+
+</p>
 
 ---
 
-<h2 align="center">Internship Experience</h2>
+<h2 align="center">INTERNSHIP EXPERIENCE</h2>
 
 <details>
 
@@ -194,6 +411,8 @@ An AI-based system developed to identify medicinal plant species and verify thei
 Completed hands-on training in IoT and Embedded Systems.
 
 Worked with hardware-software integration and developed a scrolling display application involving real-time data handling and peripheral control.
+
+<br><br>
 
 <b>Areas of Exposure</b>
 
@@ -215,9 +434,7 @@ Worked with hardware-software integration and developed a scrolling display appl
 
 <br>
 
-Completed training focused on communication and electronics technologies.
-
-<b>Areas of Exposure</b>
+Gained practical exposure to:
 
 - 5G Communication
 - FPGA Kits
@@ -230,24 +447,34 @@ Completed training focused on communication and electronics technologies.
 
 ---
 
-<h2 align="center">Education</h2>
+<h2 align="center">EDUCATION</h2>
 
-<div align="center">
+<p align="center">
 
-### Bachelor of Engineering  
-**Electronics and Communication Engineering**
+<b>Bachelor of Engineering</b>
+
+<br>
+
+<b>Electronics and Communication Engineering</b>
+
+<br><br>
 
 Dr. N.G.P Institute of Technology, Coimbatore
 
+<br>
+
 2023 - Present
 
-**CGPA: 7.40**
+<br><br>
 
-</div>
+<img
+src="https://img.shields.io/badge/CGPA-7.40-DC2626?style=for-the-badge&labelColor=0A0A0A">
+
+</p>
 
 ---
 
-<h2 align="center">Certifications</h2>
+<h2 align="center">CERTIFICATIONS</h2>
 
 <details>
 
@@ -263,7 +490,7 @@ Dr. N.G.P Institute of Technology, Coimbatore
 
 ---
 
-<h2 align="center">Workshops and Participation</h2>
+<h2 align="center">WORKSHOPS & PARTICIPATION</h2>
 
 <details>
 
@@ -280,87 +507,161 @@ Dr. N.G.P Institute of Technology, Coimbatore
 
 ---
 
-<h2 align="center">GitHub Statistics</h2>
+<h2 align="center">GITHUB ANALYTICS</h2>
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rashwinrashwin1-crypto&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=rashwin-10&show_icons=true&bg_color=0A0A0A&title_color=EF4444&text_color=F3F4F6&icon_color=EF4444&border_color=EF4444"
+height="175"
+alt="GitHub Stats">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashwinrashwin1-crypto&layout=compact&hide_border=true"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashwin-10&layout=compact&bg_color=0A0A0A&title_color=EF4444&text_color=F3F4F6&border_color=EF4444"
+height="175"
+alt="Top Languages">
 
-</div>
+</p>
 
----
+<h3 align="center">GitHub Streak</h3>
 
-<h2 align="center">GitHub Streak</h2>
+<p align="center">
 
-<div align="center">
+<img
+src="https://streak-stats.demolab.com/?user=rashwin-10&background=0A0A0A&border=EF4444&ring=EF4444&fire=EF4444&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EF4444&sideLabels=EF4444&dates=999999"
+alt="GitHub Streak">
 
-<img src="https://streak-stats.demolab.com/?user=rashwinrashwin1-crypto&hide_border=true"/>
+</p>
 
-</div>
+<h3 align="center">Contribution Activity</h3>
 
----
+<p align="center">
 
-<h2 align="center">Contribution Activity</h2>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=rashwin-10&bg_color=0A0A0A&color=FFFFFF&line=EF4444&point=F87171&area=true&hide_border=false"
+width="100%"
+alt="Contribution Graph">
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rashwinrashwin1-crypto&hide_border=true"/>
-
-</div>
-
----
-
-<h2 align="center">Contribution Snake</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rashwinrashwin1-crypto/rashwinrashwin1-crypto/gh-pages/github-snake-dark.svg" alt="Contribution Snake Animation"/>
-
-</div>
+</p>
 
 ---
 
-<h2 align="center">Current Focus</h2>
+<h2 align="center">CONTRIBUTION JOURNEY</h2>
 
-<div align="center">
+<p align="center">
 
-`Java` &nbsp; | &nbsp;
-`Data Structures` &nbsp; | &nbsp;
-`Embedded Systems` &nbsp; | &nbsp;
-`Internet of Things` &nbsp; | &nbsp;
-`MATLAB` &nbsp; | &nbsp;
-`Computer Vision`
+<img
+src="https://raw.githubusercontent.com/rashwin-10/rashwin-10/gh-pages/github-snake-dark.svg"
+width="100%"
+alt="Contribution Snake Animation">
 
-</div>
+</p>
 
 ---
 
-<h2 align="center">Connect With Me</h2>
+<h2 align="center">CURRENT FOCUS</h2>
 
-<div align="center">
+<p align="center">
 
-I am open to learning opportunities, internships and projects related to Embedded Systems, IoT, Software Development, Robotics and Computer Vision.
+<img src="https://img.shields.io/badge/JAVA-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=EF4444">
+
+<img src="https://img.shields.io/badge/DATA%20STRUCTURES-DC2626?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-0A0A0A?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/IoT-DC2626?style=for-the-badge&logo=arduino&logoColor=white">
+
+<img src="https://img.shields.io/badge/MATLAB-0A0A0A?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-DC2626?style=for-the-badge">
+
+</p>
+
+---
+
+<h2 align="center">LET'S CONNECT & COLLABORATE</h2>
+
+<p align="center">
+
+<i>
+Open to learning opportunities, internships and projects related to Embedded Systems,
+IoT, Software Development, Robotics and Computer Vision.
+</i>
+
+</p>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="220">
+
+<a href="https://www.linkedin.com/in/rashwinsp">
+
+<img src="https://skillicons.dev/icons?i=linkedin" width="60">
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/rashwinsp">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A">
 
-<a href="mailto:rashwinrashwin1@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
 
 <br>
 
-<div align="center">
+<sub><b>Professional Network</b></sub>
 
-<b>Learn. Build. Improve. Repeat.</b>
+</td>
 
-</div>
+<td align="center" width="220">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<a href="mailto:rashwinrashwin1@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail" width="60">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A">
+
+</a>
+
+<br>
+
+<sub><b>Direct Contact</b></sub>
+
+</td>
+
+<td align="center" width="220">
+
+<a href="https://rashwinsp.netlify.app">
+
+<img src="https://skillicons.dev/icons?i=vercel" width="60">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0A">
+
+</a>
+
+<br>
+
+<sub><b>View My Work</b></sub>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<p align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1500&color=EF4444&center=true&vCenter=true&width=500&lines=Learn.+Build.+Improve.+Repeat."
+alt="Footer Quote">
+
+</p>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:7F1D1D,100:DC2626&height=120&section=footer"
+width="100%">
