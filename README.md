@@ -3,15 +3,36 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&width=950&height=55&lines=Hi%2C+I'm+Rashwin+SP;Electronics+and+Communication+Engineering+Student;Embedded+Systems+and+IoT+Enthusiast;Software+Development+and+Programming+Learner;MATLAB+and+Computer+Vision+Explorer;Building+Practical+Engineering+Projects" alt="Typing Animation">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&width=950&height=55&lines=Hi%2C+I'm+Rashwin+SP;Electronics+and+Communication+Engineering+Student;Embedded+Systems+and+IoT+Enthusiast;Software+Development+and+Programming+Learner;MATLAB+and+Computer+Vision+Explorer;Building+Practical+Engineering+Projects"
+    alt="Typing Animation">
 </p>
 
 <br>
 
-<p align="center"><a href="https://www.linkedin.com/in/rashwinsp"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" height="34"></a>&nbsp;&nbsp;<a href="mailto:rashwinrashwin1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" height="34"></a>&nbsp;&nbsp;<a href="https://rashwinsp.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-DC2626?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0A0A0A" height="34"></a>&nbsp;&nbsp;<a href="https://github.com/rashwin-10"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0A0A0A" height="34"></a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rashwinsp">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" height="34">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:rashwinrashwin1@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" height="34">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://rashwinsp.netlify.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-DC2626?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0A0A0A" height="34">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rashwin-10">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0A0A0A" height="34">
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rashwin-10&label=PROFILE%20VIEWS&color=DC2626&style=for-the-badge" height="30" alt="Profile Views">
+  <img
+    src="https://komarev.com/ghpvc/?username=rashwin-10&label=PROFILE%20VIEWS&color=DC2626&style=for-the-badge"
+    height="30"
+    alt="Profile Views">
 </p>
 
 <br><br>
@@ -19,11 +40,16 @@
 <h1 align="center">ABOUT ME</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1200&color=F87171&center=true&vCenter=true&width=880&height=40&lines=Engineering+hardware.+Exploring+software.;Building+practical+systems.;Connecting+Core+Engineering+with+IT." alt="About Animation">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1200&color=F87171&center=true&vCenter=true&width=880&height=40&lines=Engineering+hardware.+Exploring+software.;Building+practical+systems.;Connecting+Core+Engineering+with+IT."
+    alt="About Animation">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" alt="Developer Animation">
+  <img
+    src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
+    width="340"
+    alt="Developer Animation">
 </p>
 
 <p align="center">
@@ -47,7 +73,13 @@ to develop reliable, intelligent and useful engineering solutions.
 
 <br>
 
-<p align="center"><img src="https://img.shields.io/badge/CORE%20INTEREST-EMBEDDED%20SYSTEMS-111111?style=for-the-badge" height="32">&nbsp;&nbsp;<img src="https://img.shields.io/badge/IT%20INTEREST-SOFTWARE%20DEVELOPMENT-DC2626?style=for-the-badge" height="32">&nbsp;&nbsp;<img src="https://img.shields.io/badge/CURRENT%20FOCUS-JAVA%20%26%20DSA-111111?style=for-the-badge" height="32"></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CORE%20INTEREST-EMBEDDED%20SYSTEMS-111111?style=for-the-badge" height="32">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/IT%20INTEREST-SOFTWARE%20DEVELOPMENT-DC2626?style=for-the-badge" height="32">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CURRENT%20FOCUS-JAVA%20%26%20DSA-111111?style=for-the-badge" height="32">
+</p>
 
 <br><br>
 
@@ -74,7 +106,9 @@ and has provided practical experience with MATLAB, image processing and computer
 
 <p align="center">
 <a href="https://github.com/rashwin-10/UAV-Vision-Based-Mapping">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" height="35">
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A"
+height="35">
 </a>
 </p>
 
@@ -96,7 +130,9 @@ conditions and controls robot movement automatically.
 
 <p align="center">
 <a href="https://github.com/rashwin-10/Autonomous-Fire-Fighting-Robot">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" height="34">
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A"
+height="34">
 </a>
 </p>
 
@@ -116,7 +152,9 @@ which controls a servo-based sorting mechanism.
 
 <p align="center">
 <a href="https://github.com/rashwin-10/Waste-Segregation-Machine">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" height="34">
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A"
+height="34">
 </a>
 </p>
 
@@ -137,7 +175,9 @@ Movement Decision Logic, Virtual Robot Simulation
 
 <p align="center">
 <a href="https://github.com/rashwin-10/AI-Autonomous-Robot-Simulation">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" height="34">
+<img
+src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A"
+height="34">
 </a>
 </p>
 
@@ -150,7 +190,10 @@ Movement Decision Logic, Virtual Robot Simulation
 <h2 align="center">Programming Languages</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,java,python&theme=dark" height="95" alt="Programming Languages">
+<img
+src="https://skillicons.dev/icons?i=c,java,python&theme=dark"
+height="95"
+alt="Programming Languages">
 </p>
 
 <br>
@@ -158,7 +201,10 @@ Movement Decision Logic, Virtual Robot Simulation
 <h2 align="center">Engineering & Development Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=arduino,matlab,git,github,vscode&theme=dark" height="90" alt="Engineering Tools">
+<img
+src="https://skillicons.dev/icons?i=arduino,matlab,git,github,vscode&theme=dark"
+height="90"
+alt="Engineering Tools">
 </p>
 
 <br>
@@ -171,9 +217,21 @@ I use programming and engineering tools to explore practical hardware,
 automation and computer-vision applications.
 </p>
 
-<p align="center"><img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-0A0A0A?style=for-the-badge" height="34">&nbsp;&nbsp;<img src="https://img.shields.io/badge/INTERNET%20OF%20THINGS-DC2626?style=for-the-badge&logo=arduino&logoColor=white" height="34">&nbsp;&nbsp;<img src="https://img.shields.io/badge/XILINX%20VIVADO-0A0A0A?style=for-the-badge" height="34"></p>
+<p align="center">
+<img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-0A0A0A?style=for-the-badge" height="34">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/INTERNET%20OF%20THINGS-DC2626?style=for-the-badge&logo=arduino&logoColor=white" height="34">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/XILINX%20VIVADO-0A0A0A?style=for-the-badge" height="34">
+</p>
 
-<p align="center"><img src="https://img.shields.io/badge/MATLAB-DC2626?style=for-the-badge" height="34">&nbsp;&nbsp;<img src="https://img.shields.io/badge/COMPUTER%20VISION-0A0A0A?style=for-the-badge" height="34">&nbsp;&nbsp;<img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPMENT-DC2626?style=for-the-badge" height="34"></p>
+<p align="center">
+<img src="https://img.shields.io/badge/MATLAB-DC2626?style=for-the-badge" height="34">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-0A0A0A?style=for-the-badge" height="34">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SOFTWARE%20DEVELOPMENT-DC2626?style=for-the-badge" height="34">
+</p>
 
 <p align="center">
 <b>Embedded Programming</b>, Sensor Interfacing, MATLAB Simulation,
@@ -284,12 +342,22 @@ my software-development and problem-solving skills.
 
 <h1 align="center">GITHUB ANALYTICS</h1>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rashwin-10&show_icons=true&bg_color=0A0A0A&title_color=EF4444&text_color=F3F4F6&icon_color=EF4444&border_color=EF4444&border_radius=10" width="460" alt="GitHub Stats">
-</p>
+<br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashwin-10&layout=compact&bg_color=0A0A0A&title_color=EF4444&text_color=F3F4F6&border_color=EF4444&border_radius=10" width="360" alt="Top Languages">
+<img
+src="https://github-readme-stats-fast.vercel.app/api?username=rashwin-10&show_icons=true&bg_color=0A0A0A&title_color=EF4444&text_color=F3F4F6&icon_color=EF4444&border_color=EF4444&border_radius=10"
+width="470"
+alt="GitHub Stats">
+</p>
+
+<br>
+
+<p align="center">
+<img
+src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rashwin-10&layout=compact&bg_color=0A0A0A&title_color=EF4444&text_color=F3F4F6&border_color=EF4444&border_radius=10"
+width="390"
+alt="Top Languages">
 </p>
 
 <br>
@@ -297,15 +365,10 @@ my software-development and problem-solving skills.
 <h2 align="center">GitHub Streak</h2>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=rashwin-10&background=0A0A0A&border=EF4444&ring=EF4444&fire=EF4444&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EF4444&sideLabels=EF4444&dates=999999" width="520" alt="GitHub Streak">
-</p>
-
-<br>
-
-<h2 align="center">Contribution Graph</h2>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rashwin-10&bg_color=0A0A0A&color=FFFFFF&line=EF4444&point=F87171&area=true&area_color=7F1D1D&hide_border=false&border_color=EF4444" width="90%" alt="Contribution Graph">
+<img
+src="https://streak-stats.demolab.com/?user=rashwin-10&background=0A0A0A&border=EF4444&ring=EF4444&fire=EF4444&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EF4444&sideLabels=EF4444&dates=999999"
+width="520"
+alt="GitHub Streak">
 </p>
 
 <br><br>
@@ -313,7 +376,10 @@ my software-development and problem-solving skills.
 <h1 align="center">CONTRIBUTION JOURNEY</h1>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rashwin-10/rashwin-10/gh-pages/github-snake-dark.svg" width="90%" alt="Contribution Snake Animation">
+<img
+src="https://raw.githubusercontent.com/rashwin-10/rashwin-10/gh-pages/github-snake-dark.svg"
+width="92%"
+alt="Contribution Snake Animation">
 </p>
 
 <br><br>
@@ -325,9 +391,21 @@ My current focus is strengthening programming and problem-solving while continui
 to build practical knowledge in Embedded Systems, IoT, MATLAB and Computer Vision.
 </p>
 
-<p align="center"><img src="https://img.shields.io/badge/JAVA-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=EF4444" height="34">&nbsp;&nbsp;<img src="https://img.shields.io/badge/DATA%20STRUCTURES-DC2626?style=for-the-badge" height="34">&nbsp;&nbsp;<img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-0A0A0A?style=for-the-badge" height="34"></p>
+<p align="center">
+<img src="https://img.shields.io/badge/JAVA-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=EF4444" height="34">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/DATA%20STRUCTURES-DC2626?style=for-the-badge" height="34">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-0A0A0A?style=for-the-badge" height="34">
+</p>
 
-<p align="center"><img src="https://img.shields.io/badge/IoT-DC2626?style=for-the-badge&logo=arduino&logoColor=white" height="34">&nbsp;&nbsp;<img src="https://img.shields.io/badge/MATLAB-0A0A0A?style=for-the-badge" height="34">&nbsp;&nbsp;<img src="https://img.shields.io/badge/COMPUTER%20VISION-DC2626?style=for-the-badge" height="34"></p>
+<p align="center">
+<img src="https://img.shields.io/badge/IoT-DC2626?style=for-the-badge&logo=arduino&logoColor=white" height="34">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MATLAB-0A0A0A?style=for-the-badge" height="34">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-DC2626?style=for-the-badge" height="34">
+</p>
 
 <p align="center">
 <b>Java & DSA</b>, Problem Solving, Embedded Development,
@@ -345,24 +423,50 @@ Embedded Systems, IoT, Software Development, Robotics and Computer Vision.
 
 <br>
 
-<p align="center"><a href="https://www.linkedin.com/in/rashwinsp"><img src="https://skillicons.dev/icons?i=linkedin" width="65" height="65" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:rashwinrashwin1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="65" height="65" alt="Email"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://rashwinsp.netlify.app"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="65" height="65" alt="Portfolio"></a></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/rashwinsp">
+<img src="https://skillicons.dev/icons?i=linkedin" width="65" height="65" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:rashwinrashwin1@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="65" height="65" alt="Email">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://rashwinsp.netlify.app">
+<img src="https://cdn.simpleicons.org/netlify/00C7B7" width="65" height="65" alt="Portfolio">
+</a>
+</p>
 
 <br>
 
-<p align="center"><a href="https://www.linkedin.com/in/rashwinsp"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" height="30"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:rashwinrashwin1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" height="30"></a>&nbsp;&nbsp;&nbsp;<a href="https://rashwinsp.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-DC2626?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0A0A0A" height="30"></a></p>
-
 <p align="center">
-<b>LinkedIn</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Email</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Portfolio</b>
+<a href="https://www.linkedin.com/in/rashwinsp">
+<img
+src="https://img.shields.io/badge/LINKEDIN-CONNECT-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A"
+height="30">
+</a>
+&nbsp;&nbsp;
+<a href="mailto:rashwinrashwin1@gmail.com">
+<img
+src="https://img.shields.io/badge/EMAIL-CONTACT-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A"
+height="30">
+</a>
+&nbsp;&nbsp;
+<a href="https://rashwinsp.netlify.app">
+<img
+src="https://img.shields.io/badge/PORTFOLIO-VISIT-DC2626?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0A0A0A"
+height="30">
+</a>
 </p>
 
 <br><br>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1500&color=EF4444&center=true&vCenter=true&width=600&height=42&lines=Learn.+Build.+Improve.+Repeat." alt="Footer Animation">
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1500&color=EF4444&center=true&vCenter=true&width=600&height=42&lines=Learn.+Build.+Improve.+Repeat."
+alt="Footer Animation">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:7F1D1D,100:DC2626&height=105&section=footer" width="100%">
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:7F1D1D,100:DC2626&height=105&section=footer"
+width="100%">
