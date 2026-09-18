@@ -212,6 +212,13 @@ Gained practical exposure to:
 </details>
 
 ---
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rashwinrashwin1-crypto/rashwinrashwin1-crypto/gh-pages/github-snake-dark.svg" alt="Snake animation"/>
+
+</div>
 
 # 🎓 Education
 
@@ -220,10 +227,3 @@ B.E. Electronics & Communication Engineering
 Dr. N.G.P Institute of Technology
 2023 - Present
 CGPA: 7.40
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rashwinrashwin1-crypto/rashwinrashwin1-crypto/gh-pages/github-snake-dark.svg" alt="Snake animation"/>
-
-</div>
